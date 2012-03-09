@@ -6,7 +6,7 @@ BODY
 {
     background: white;
     margin: 0.5in;
-    font-family: arial,helvetica,sans-serif;
+    font-family: Latha,Latha,Latha;
 }
 
 H1.title
@@ -65,19 +65,19 @@ P,LI,UL,OL,DD,DT
 
 TT,PRE
 {
-    font-family: courier new,courier,fixed;
+    font-family: Latha,fixed;
 }
 
 .command, .screen, .programlisting
 {
-    font-family: courier new,courier,fixed;
+    font-family: Latha,fixed;
     font-style: normal;
     font-weight: normal;
 }
 
 .filename
 {
-    font-family: arial,helvetica,sans-serif;
+    font-family: Latha;
     font-style: italic;
 }
 
@@ -178,7 +178,7 @@ IMG
 
 .programlisting, .screen
 {
-    font-family: courier new,courier,fixed;
+    font-family: Latha,fixed;
     font-style: normal;
     font-weight: normal;
     font-size: 90%;
